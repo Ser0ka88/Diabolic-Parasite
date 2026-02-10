@@ -1,12 +1,12 @@
-# Diabolic Parasite Case - 3D Printed made by Ser0ka88 
+# Diabolic Parasite Case - 3D Printed made by Ser0ka88
 
-Github: https://github.com/Ser0ka88
+Github: <https://github.com/Ser0ka88>
 
 Discord: ser0ka
 
 </h1>
 
-# Pictures
+## Pictures
 
 INSERT SAMPLE PICTURES
 
@@ -31,6 +31,6 @@ Both housing parts can be printed without support structures and, when printed w
 
 The 3D models may be modified. However, it would be desirable to mention the author.
 
-# More  Pictures
+## More  Pictures
 
 INSERT SAMPLE PICTURES
